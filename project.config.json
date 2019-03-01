@@ -1,0 +1,13 @@
+{
+  "description": "简单的生成一份高质量简历",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx5a1b79a4aebf98c2",
+  "projectname": "easy-joy-resume",
+  "miniprogramRoot": "./dist"
+}
